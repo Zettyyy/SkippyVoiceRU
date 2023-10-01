@@ -7,7 +7,7 @@ SkippyVoiceRU — голосовая модель Скиппи из Cyberpunk 20
 
 *Оригинальный актёр озвучки — Александр Гудков*
 ## 📩 Скачивание модели
-[1️⃣] [Google Drive](https://drive.google.com/uc?export=view&id=)
+[1️⃣] [Google Drive](https://drive.google.com/uc?export=view&id=1ktbku0kIlXqPqqRRgJbhGiAn5N2LGZk7)
 
 [2️⃣] *...*
 ## 🔧 Сетап на so-vits-svc
