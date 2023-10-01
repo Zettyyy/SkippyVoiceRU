@@ -20,3 +20,4 @@ SkippyVoiceRU — голосовая модель Скиппи из Cyberpunk 20
 
 *Примечание: для лучшего результата в прозе и рэпе используйте dio*
 ## *Вот и всё!✨*
+[Страница на Hugging Face](https://huggingface.co/Zettyyy/so-vits-svc-Cyberpunk2077-RU)
